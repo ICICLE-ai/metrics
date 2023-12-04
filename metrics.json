@@ -1,0 +1,41 @@
+{
+    "CI-Components-Catalog": {
+        "clones": {"count": 275, "uniques": 141},
+        "page_views": {"count": 1461, "uniques": 83}
+    },
+    "harp": {
+        "clones": {"count": 160, "uniques": 91},
+        "page_views": {"count": 1932, "uniques": 97}
+    },
+    "hello_icicle_auth_clients": {
+        "clones": {"count": 14, "uniques": 14},
+        "page_views": {"count": 98, "uniques": 12}},
+    "iSpLib": {
+        "clones": {"count": 34, "uniques": 26},
+        "page_views": {"count": 44, "uniques": 18}
+    },
+    "PPOD_CA": {
+        "clones": {"count": 61, "uniques": 37},
+        "page_views": {"count": 45, "uniques": 11}
+    },
+    "PPODLinkML": {
+        "clones": {"count": 27, "uniques": 22},
+        "page_views": {"count": 26, "uniques": 12}
+    },
+    "Region2vec": {
+        "clones": {"count": 15, "uniques": 10},
+        "page_views": {"count": 29, "uniques": 8}
+    },
+    "Smartfoodshed_VA_VC1": {
+        "clones": {"count": 381, "uniques": 121},
+        "page_views": {"count": 3122, "uniques": 92}
+    },
+    "SoftwarePilot": {
+        "clones": {"count": 13, "uniques": 13},
+        "page_views": {"count": 21, "uniques": 9}
+    },
+    "Species-Classification-Multimodal-Context": {
+        "clones": {"count": 26, "uniques": 20},
+        "page_views": {"count": 91, "uniques": 14}
+    }
+}
