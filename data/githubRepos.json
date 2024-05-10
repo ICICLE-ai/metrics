@@ -1,0 +1,49 @@
+{
+  "date": "2024-05-08",
+  "owners": {
+    "icicle-ai": {
+      "CI-Components-Catalog": {
+        "clones": { "count": 577, "uniques": 262 },
+        "page_views": { "count": 2163, "uniques": 121 }
+      },
+      "harp": {
+        "clones": { "count": 179, "uniques": 106 },
+        "page_views": { "count": 2511, "uniques": 161 }
+      },
+      "hello_icicle_auth_clients": {
+        "clones": { "count": 27, "uniques": 25 },
+        "page_views": { "count": 98, "uniques": 12 }
+  },
+      "iSpLib": {
+        "clones": { "count": 56, "uniques": 45 },
+        "page_views": { "count": 59, "uniques": 25 }
+      },
+      "PPODLinkML": {
+        "clones": { "count": 35, "uniques": 29 },
+        "page_views": { "count": 91, "uniques": 29 }
+      },
+      "Region2vec": {
+        "clones": { "count": 27, "uniques": 21 },
+        "page_views": { "count": 124, "uniques": 11 }
+      },
+      "Smartfoodshed_VA_VC1": {
+        "clones": { "count": 486, "uniques": 187 },
+        "page_views": { "count": 3798, "uniques": 145 }
+      },
+      "SoftwarePilot": {
+        "clones": { "count": 27, "uniques": 25 },
+        "page_views": { "count": 21, "uniques": 9 }
+      },
+      "Species-Classification-Multimodal-Context": {
+        "clones": { "count": 42, "uniques": 34 },
+        "page_views": { "count": 113, "uniques": 18 }
+      }
+    },
+    "ppodschema": {
+      "PPOD_CA": {
+        "clones": { "count": 95, "uniques": 66 },
+        "page_views": { "count": 116, "uniques": 43 }
+      }
+    }
+  }
+}
