@@ -1,4 +1,5 @@
-export interface GitHubRepo {
+// deno-lint-ignore-file no-explicit-any
+export interface GitHubRepo extends Record<string, any> {
   name: string,
   link: string,
   github_account_name: string,
@@ -9,7 +10,7 @@ export interface GitHubRepo {
   release_download_count: number,
 }
 
-export interface PyPIPackage {
+export interface PyPIProject extends Record<string, any>{
   name: string,
   link: string,
   download_count: number,
