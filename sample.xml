@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>ICICLE Software Components Metrics</title>
+        <link>https://icicle.ai</link>
+        <description>Date: 2024/05/08 </description>
+        <item>
+            <title>CI-Components-Catalog</title>
+            <link></link>
+
+            <description> <![CDATA[Clones: 299<br>Page Views: 1468]]> </description>
+        </item>
+        <item>
+            <title>harp</title>
+            <link></link>
+            <description> <![CDATA[Clones: 166<br>Page Views: 1980]]> </description>
+        </item>
+        <item>
+            <title>hello_icicle_auth_clients</title>
+            <link></link>
+            <description> <![CDATA[Clones: 20<br>Page Views: 98]]> </description>
+        </item>
+        <item>
+            <title>iSpLib</title>
+            <link></link>
+            <description> <![CDATA[Clones: 43<br>Page Views: 55]]> </description>
+        </item>
+        <item>
+            <title>PPOD_CA</title>
+            <link></link>
+            <description> <![CDATA[Clones: 86<br>Page Views: 70]]> </description>
+        </item>
+        <item>
+            <title>PPODLinkML</title>
+            <link></link>
+            <description> <![CDATA[Clones: 34<br>Page Views: 63]]> </description>
+        </item>
+        <item>
+            <title>Region2vec</title>
+            <link></link>
+            <description> <![CDATA[Clones: 22<br>Page Views: 124]]> </description>
+        </item>
+        <item>
+            <title>Smartfoodshed_VA_VC1</title>
+            <link></link>
+            <description> <![CDATA[Clones: 456<br>Page Views: 3387]]> </description>
+        </item>
+        <item>
+            <title>SoftwarePilot</title>
+            <link></link>
+            <description> <![CDATA[Clones: 19<br>Page Views: 21]]> </description>
+        </item>
+        <item>
+            <title>Species-Classification-Multimodal-Context</title>
+            <link></link>
+            <description>
+                <![CDATA[Clones: 36<br>
+Page Views: 113]]> </description>
+        </item>
+        <item>
+            <title>iciflaskn</title>
+            <link></link>
+            <description> Downloads: 1022 </description>
+        </item>
+        <item>
+            <title>ICICONSOLE</title>
+            <link></link>
+            <description> Downloads: 22344 </description>
+        </item>
+        <item>
+            <title>SoftwarePilot</title>
+            <link></link>
+            <description> Downloads: 32034 </description>
+        </item>
+        <item>
+            <title>TapisCL-ICICLE</title>
+            <link></link>
+            <description> Downloads: 42486 </description>
+        </item>
+    </channel>
+</rss>
