@@ -17,7 +17,7 @@ CREATE TABLE github_repository (
   FOREIGN KEY (github_account_name) REFERENCES github_account(name)
 );
 
-CREATE TABLE pypi_project (
+CREATE TABLE pypi_package (
   name TEXT NOT NULL,
   link TEXT NOT NULL,
   download_count INTEGER DEFAULT 0,

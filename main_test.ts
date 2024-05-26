@@ -2,7 +2,7 @@ import { assertEquals } from "jsr:@std/assert";
 import { fetchGitHubMetrics, fetchPyPIMetrics } from "./metrics.ts";
 import { Octokit } from "https://esm.sh/octokit?dts";
 import { load } from "@std/dotenv";
-import { GitHubRepo, PyPIProject } from "./model.ts";
+import { GitHubRepo, PyPIProject } from "./helper_functions.ts";
 const env = await load({ export: true });
 
 const octokit = new Octokit({

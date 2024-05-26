@@ -26,7 +26,7 @@ export async function fetchGitHubMetrics(
     .catch((error) => {
       console.error("Error:", error);
     });
-  
+
   // Page Views
   await octokit
     .request("GET /repos/{owner}/{repo}/traffic/{metric}", {
@@ -63,7 +63,7 @@ export async function fetchPyPIMetrics(project: PyPIProject, token: string) {
       return response.json();
     })
     .then((data) => {
-        project.download_count += data.total_downloads;
+      project.download_count += data.total_downloads;
     })
     .catch((error) => {
       console.error("Error:", error);
